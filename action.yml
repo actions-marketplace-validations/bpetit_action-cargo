@@ -1,6 +1,6 @@
-name: 'rust-cargo'
+name: 'rust-cargo-action'
 description: 'Run cargo command'
-author: 'actions-rs team'
+author: 'bpetit'
 branding:
   icon: play-circle
   color: black
